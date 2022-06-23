@@ -19,7 +19,7 @@ To complete the challenge, the following skills are required:
 
 
 ## Results
----
+
 **Random Oversampler**
 ![Img1](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img1.png?raw=true)
 ---
