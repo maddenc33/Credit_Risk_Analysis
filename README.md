@@ -19,24 +19,24 @@ To complete the challenge, the following skills are required:
 
 
 ## Results
-
+---
 **Random Oversampler**
 ![Img1](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img1.png?raw=true)
-
+---
 **SMOTE**
 ![Img2](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img2.png?raw=true)
-
+---
 **ClusterCentroids**
 ![Img3](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img3.png?raw=true)
-
+---
 **SMOTEENN**
 ![Img4](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img4.png?raw=true)
-
+---
 **BalancedRandomForestClassifier**
 ![Img5](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img5.png?raw=true)
-
+---
 **EasyEnsembleClassifier**
 ![Img6](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img6.png?raw=true)
-
+---
 
 ## Summary
