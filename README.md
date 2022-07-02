@@ -70,3 +70,4 @@ To complete the challenge, the following skills are required:
 ---
 
 ## Summary
+Across the board, precision is very high for low risk loans, and very low for high risk loans.  The model with the best balanced accuracy in this example is EasyEnsembleClassifier, with an accuracy of 93%.  The next highest accuracy belongs to BalancedRandomForestClassifier at 79%.  The EasyEnsembleClassifier model is the clear winner.  Furthermore, EasyEnsembleClassifier has high precision (0.99), recall (0.94) and f1 (0.97) scores.  This indicates that the model is reliable for determining positive classifications.  Also, with high recall, the EasyEnsembleClassifier is good at finding all positive samples.  Finally, with a high f1 score, the EasyEnsembleClassifier model has a high degree of true positive rate and precision.
