@@ -22,21 +22,51 @@ To complete the challenge, the following skills are required:
 
 **Random Oversampler**
 ![Img1](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img1.png?raw=true)
+
+- Balanced Accuracy Score:
+- Precision:
+- Recall Score:
+
 ---
 **SMOTE**
 ![Img2](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img2.png?raw=true)
+
+- Balanced Accuracy Score:
+- Precision:
+- Recall Score:
+
 ---
 **ClusterCentroids**
 ![Img3](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img3.png?raw=true)
+
+- Balanced Accuracy Score:
+- Precision:
+- Recall Score:
+
 ---
 **SMOTEENN**
 ![Img4](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img4.png?raw=true)
+
+- Balanced Accuracy Score:
+- Precision:
+- Recall Score:
+
 ---
 **BalancedRandomForestClassifier**
 ![Img5](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img5.png?raw=true)
+
+- Balanced Accuracy Score:
+- Precision:
+- Recall Score:
+
 ---
 **EasyEnsembleClassifier**
 ![Img6](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img6.png?raw=true)
+
+- Balanced Accuracy Score:
+- Precision:
+- Recall Score:
+
 ---
 
 ## Summary
