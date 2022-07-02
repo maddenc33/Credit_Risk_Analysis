@@ -23,49 +23,49 @@ To complete the challenge, the following skills are required:
 **Random Oversampler**
 ![Img1](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img1.png?raw=true)
 
-- Balanced Accuracy Score:
-- Precision:
-- Recall Score:
+- Balanced Accuracy Score: 0.6249984891886339
+- Precision: 0.99
+- Recall Score: 0.65
 
 ---
 **SMOTE**
 ![Img2](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img2.png?raw=true)
 
-- Balanced Accuracy Score:
-- Precision:
-- Recall Score:
+- Balanced Accuracy Score: 0.6512584051472337
+- Precision: 0.99
+- Recall Score: 0.66
 
 ---
 **ClusterCentroids**
 ![Img3](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img3.png?raw=true)
 
-- Balanced Accuracy Score:
-- Precision:
-- Recall Score:
+- Balanced Accuracy Score: 0.6512584051472337
+- Precision: 0.99
+- Recall Score: 0.45
 
 ---
 **SMOTEENN**
 ![Img4](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img4.png?raw=true)
 
-- Balanced Accuracy Score:
-- Precision:
-- Recall Score:
+- Balanced Accuracy Score: 0.5293318990697431
+- Precision: 0.99
+- Recall Score: 0.57
 
 ---
 **BalancedRandomForestClassifier**
 ![Img5](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img5.png?raw=true)
 
-- Balanced Accuracy Score:
-- Precision:
-- Recall Score:
+- Balanced Accuracy Score: 0.7885466545953005
+- Precision: 0.99
+- Recall Score: 0.87
 
 ---
 **EasyEnsembleClassifier**
 ![Img6](https://github.com/maddenc33/Credit_Risk_Analysis/blob/main/Images/Img6.png?raw=true)
 
-- Balanced Accuracy Score:
-- Precision:
-- Recall Score:
+- Balanced Accuracy Score: 0.9316600714093861
+- Precision: 0.99
+- Recall Score: 0.94
 
 ---
 
